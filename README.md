@@ -1,6 +1,8 @@
 # springcloud_oauth2.0
 一个基于Spring Cloud+OAuth2.0+Spring Security+Redis的统一认证脚手架
 
+https://mp.weixin.qq.com/s/MhqIA5MQqcwiGLSh-oAy3g
+
     eshop —— 父级工程，管理jar包版本
     
     eshop-server —— Eureka服务注册中心
